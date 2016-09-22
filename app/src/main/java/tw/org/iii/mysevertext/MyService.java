@@ -34,7 +34,7 @@ public class MyService extends Service {
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Log.d("brad","onDestroy");
+        Log.d("brad","onDestroy1");
 
     }
 
